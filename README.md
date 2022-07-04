@@ -4,7 +4,7 @@ A simple Tampermonkey script to remove dubs from the Crunchyroll calendar view.
 # Installation
 ## Prerequisites
 To use this script, you will first need to install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension
-## [Install Userscript](https://github.com/justinloveless/tampermonkey_remove_dubs_from_crunchyroll/blob/7e14e4773bfcca39eef1d932dab3d7210e532d9f/raw/remove_dubs.js)
+## [Install Userscript](https://raw.githubusercontent.com/justinloveless/tampermonkey_remove_dubs_from_crunchyroll/main/remove_dubs.js)
 
 # Screenshots
 ## Hiding the dubs
