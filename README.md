@@ -2,7 +2,7 @@
 A simple Tampermonkey script to remove dubs from the Crunchyroll calendar view.
 
 # Installation
-To use this script, you will need to install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension, and then simply copy the code into a new script, and save it.
+To use this script, you will need to install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension, and then simply copy the code from [remove_dubs.js](https://github.com/justinloveless/tampermonkey_remove_dubs_from_crunchyroll/blob/7e14e4773bfcca39eef1d932dab3d7210e532d9f/remove_dubs.js) into a new script, and save it.
 
 <img width="1680" alt="Screen Shot 2022-07-04 at 2 07 08 PM" src="https://user-images.githubusercontent.com/16358843/177207304-81132a65-d870-49e4-98fd-570579cd4806.png">
 
